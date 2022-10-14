@@ -1143,4 +1143,4 @@ weapon_num = 2;
 break;
 }
 return weapon_num;
-} 
+}�
