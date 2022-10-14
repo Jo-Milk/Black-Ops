@@ -563,4 +563,4 @@ reset_weapon_object_explode_this_frame()
 {
 wait .05;
 level.weaponobjectexplodethisframe = false;
-} 
+}�
