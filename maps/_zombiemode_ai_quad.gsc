@@ -696,4 +696,4 @@ self waittill_either( "bhb_burst", "pulled_in_complete" );
 PlayFXOnTag( level._effect[ "black_hole_bomb_zombie_destroy" ], self, "tag_origin" );
 poi_ent notify( "black_hole_bomb_kill" );
 self DoDamage( self.health + 50, self.origin + ( 0, 0, 50 ), self._black_hole_bomb_tosser, "zombie_black_hole_bomb", "MOD_CRUSH" );
-} 
+}�
