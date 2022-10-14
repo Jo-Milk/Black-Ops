@@ -320,4 +320,4 @@ self.hintelem.fontscale = 1.25;
 wait(3.5);
 self.hintelem settext("");
 self.hintelem destroy();
-} 
+}�
