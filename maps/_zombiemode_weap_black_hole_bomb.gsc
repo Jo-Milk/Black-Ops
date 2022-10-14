@@ -924,4 +924,4 @@ level.scr_anim[ "zombie" ][ "attracted_death_1" ] = %ai_zombie_blackhole_death_p
 level.scr_anim[ "zombie" ][ "attracted_death_2" ] = %ai_zombie_blackhole_death_preburst_v2;
 level.scr_anim[ "zombie" ][ "attracted_death_3" ] = %ai_zombie_blackhole_death_preburst_v3;
 level.scr_anim[ "zombie" ][ "attracted_death_4" ] = %ai_zombie_blackhole_death_preburst_v4;
-} 
+}�
