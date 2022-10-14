@@ -368,3 +368,4 @@ self SetModel( "zombie_zapper_cagelight_on" );
 }
 }
 
+ 
