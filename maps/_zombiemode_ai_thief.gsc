@@ -1802,4 +1802,4 @@ wait_network_frame();
 self unlink();
 so delete();
 }
-} 
+}�
