@@ -2166,4 +2166,4 @@ director_print( "animscripted never played" );
 }
 director_print( str )
 {
-} 
+}�
