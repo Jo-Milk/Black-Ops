@@ -674,4 +674,4 @@ continue;
 level thread ape_taunt_go(best_Loc.origin, player, level.epic_boss_battle);
 }
 }
-} 
+}�
