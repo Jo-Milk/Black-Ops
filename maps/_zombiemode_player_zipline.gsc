@@ -546,4 +546,4 @@ self waittill( "movedone" );
 playsoundatposition("zmb_zombie_spawn", self.origin);
 playfx(level._effect["large_ceiling_dust"],self.origin);
 self Delete();
-} 
+}�
