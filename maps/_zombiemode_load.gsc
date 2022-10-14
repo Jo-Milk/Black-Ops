@@ -676,4 +676,4 @@ else
 {
 self SetViewModel( "viewmodel_usa_pow_arms" );
 }
-} 
+}�
