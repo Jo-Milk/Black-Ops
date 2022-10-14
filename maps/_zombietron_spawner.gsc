@@ -1198,4 +1198,4 @@ zombie_death_audio( alias )
 self waittill( "death" );
 if (isDefined(self))
 self PlaySound( alias + "death" );
-} 
+}�
